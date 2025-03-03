@@ -15,7 +15,8 @@ UI формы
 Windows 10 Version 22H2, Яндекс.Браузер 24.4.5.498 (64-bit), 1920х1080
 
 ### Распределение результатов теста:
-![image](https://github.com/koroleva-qa/portfolio/assets/174460709/952492c0-b5da-45bf-996c-8000aedf4b26)
+![image](https://github.com/user-attachments/assets/9889bb45-3a38-46ec-b3ac-1d809854d007)
+
 
 ### Обнаруженные проблемы:	
 Тест-кейс: TC3 Иконка флага соответствует выбранной стране
